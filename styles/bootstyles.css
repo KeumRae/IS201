@@ -1,0 +1,84 @@
+
+/*Styles used for tableau*/
+.common {
+    position: absolute;
+  }
+  
+.header {
+  top: 5px;
+  left: 10px;
+  right: 10px;
+  height: 100px;
+  z-index: 2;
+  border-bottom: solid 1px #555555;
+}
+
+.firsttable {
+  top: 140px;
+  bottom: 500px;
+  left: 20px;
+  right: 1000px;
+}
+  
+.secondtable {
+  top: 140px;
+  bottom: 500px;
+  left: 1000px;
+  right: 20px;
+}
+  
+.thirdtable {
+  top: 900px;
+  bottom: 500px;
+  left: 20px;
+  right: 1000px;
+}
+
+.fourthtable {
+  top: 900px;
+  bottom: 500px;
+  left: 1000px;
+  right: 20px;
+}
+  
+.tableaufooter {
+  top: 1800px;
+  height: 20px;
+  left: 5px;
+  right: 5px;
+  font-size: 16px;
+  color: #6c757d;
+  text-align: center;
+}
+  
+.subheader{
+  float: right;
+  padding-top: 50px;
+  padding-right: 20px;
+  color: white;
+}
+  
+.explanation{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+  
+a{
+  color: white;
+  text-decoration: none;
+}
+    
+a:hover{
+  font-weight: bold;
+  font-size: 18px;
+}
+    
+a:visited{
+  color:rgb(26, 195, 207)
+}
+  
+body {
+  background-color: silver;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

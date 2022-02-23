@@ -1,0 +1,81 @@
+/*styles used for About Me*/
+.imgSetting {
+  float:left;
+  width: 50%;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 5px;
+}
+
+.bold{
+  font-weight: bold;
+}
+  
+.resumeListHeading{
+  font-weight: bold;
+  font-style: normal;
+}
+
+.Italic{
+  font-style: italic;
+}
+
+
+/*styles used for Index*/
+.Title{
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+  
+.Subtitle{
+  font-weight: 30;
+  margin-bottom: 10px;
+}
+
+.tableauImage{
+  height: 315px;
+  width: 560px;
+  float: none;
+}
+
+.videoTitle{
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  color: #555555;
+}
+
+.videoSubtitle{
+  font-weight: 30;
+  margin-bottom: 10px;
+  color: #555555;
+}
+
+/*styles used in all htmls*/
+.text-center{
+  text-align: center;
+}
+  
+a{
+  color: white;
+  text-decoration: none;
+}
+  
+a:hover{
+  font-weight: bold;
+  font-size: 18px;
+}
+  
+a:visited{
+  color:rgb(26, 195, 207)
+}
+
+body {
+  background-color: silver;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.buttons{
+  color: orangered;
+}
